@@ -45,9 +45,13 @@ Key Findings:
 - Manual Testing identified the greatest number of Critical defects.
 - Defect activity remained relatively stable throughout the reporting period.
 
-**View Project:**
+**Dashboard**
 
-YOUR_GITHUB_REPOSITORY_LINK_HERE
+  ![https://github.com/mvperales/manufacturing-defect-analysis](https://raw.githubusercontent.com/mvperales/manufacturing-defect-analysis/main/images/dashboard-overview.png)
+
+**Project Repository**
+
+[https://github.com/mvperales/manufacturing-defect-analysis](https://github.com/mvperales/manufacturing-defect-analysis)
 
 ---
 
