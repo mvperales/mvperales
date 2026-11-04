@@ -47,7 +47,7 @@ Key Findings:
 
 **Dashboard**
 
-  ![https://github.com/mvperales/manufacturing-defect-analysis](https://raw.githubusercontent.com/mvperales/manufacturing-defect-analysis/main/images/dashboard-overview.png)
+  ![Manufacturing Defect Analysis Dashboard](images/MfgDefectDashboard-720x416.png)
 
 **Project Repository**
 
